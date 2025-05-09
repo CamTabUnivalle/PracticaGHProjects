@@ -1,3 +1,3 @@
 # PracticaGHProjects
 
-Editando readme
+Editando readme y haciendo pull
